@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -30,22 +28,7 @@
               type="video/mp4"
               size="1080"
             />
-       <track
-              kind="captions"
-              label="English"
-              srclang="en"
-              src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-HD.en.vtt"
-              default
-            />
-       <track
-              kind="captions"
-              label="Français"
-              srclang="fr"
-              src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-HD.fr.vtt"
-            />
-
-
+       
 
      </body>
      </html>
-Displaying very best player.txt.
